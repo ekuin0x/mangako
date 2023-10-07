@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script> 
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+</head>
+<body>
+
+    <nav data-aos="zoom-in">
+        <b class="mobile" >Mangako</b>
+        <i class="bi bi-list mobile" onclick="openNav()"></i>
+        <i class="bi bi-search mobile"  onclick="openNav()"></i>
+        <a href="#">Home</a>
+        <a href="#">Trending</a>
+        <a >Latest</a>
+        <a href="/">Best Sales</a>
+        <a href="/"> shipment </a>
+        <div class="search">
+            <input id="q1" type="text">
+            <i class="bi bi-search" onclick="search('#q1')" ></i>
+        </div>
+    </nav>
+
+    <div id="mobile-nav">
+        <i class="bi bi-x-lg" onclick="closeNav()"></i>
+        <div class="search-mobile">
+            <input id="q2" type="text" placeholder="Search for mangas">
+            <i class="bi bi-search" onclick="search('#q2')"></i>
+        </div>
+        <ul>
+            <li>Le webtoon love is an illusion arrive en version papier chez Kbooks</li>
+            <li>Solo Leveling débarque en romans chez Kbooks
+            </li>
+            <li>Kbooks nous expliquera Comment devenir la fiancée du Duc
+            </li>
+            <li>Beyond the Dawn, l'extension de Tales of Arise
+            </li>
+        </ul>
+    </div>
+
+    <div id="product">
+        <img src="/static/covers/{{image}}">
+        <div>
+            <p>{{ title }}</p><br>
+            <p>{{ description }}</p>
+            <button>BUY NOW</button>
+        </div>
+    </div>
+
+    <div class="title">Related</div>
+    <div class="product-wrapper">
+        {% for x in data[0:10] %}
+        <a href="/manga/{{x['id']}}">
+        <div class="product">
+            <img src="/static/covers/{{x['image']}}" alt="">
+            <p>{{x['title']}} <br><b>{{x['price']}}</b> </p>
+        </div>
+        </a>
+        {% endfor %}
+    </div>
+    <script src="/static/script.js" ></script>
+</body>
+</html>

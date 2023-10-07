@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AniMate - Your manga store </title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script> 
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+</head>
+<body>
+
+    <nav data-aos="zoom-in">
+        <b class="mobile" >Animate</b>
+        <i class="bi bi-search mobile"></i>
+        <i class="bi bi-list mobile"></i>
+        <a href="#">Home</a>
+        <a href="#">Trending</a>
+        <a onclick="scroller('#latest')">Latest</a>
+        <a href="#" onclick="scroller('#bestSales')" >Best Sales</a>
+        <a href="#" onclick="scroller('#shipment')" > shipment </a>
+        <div class="search">
+            <input type="text">
+            <i class="bi bi-search"></i>
+        </div>
+    </nav>
+
+    <div id="mobile-nav">
+        <i class="bi bi-x-lg"></i>
+        <div class="search-mobile">
+            <input type="text" placeholder="Search for mangas">
+            <i class="bi bi-search"></i>
+
+        </div>
+    </div>
+
+    <div class="sub" id="Trending">
+        <ul>
+            <li>Le webtoon love is an illusion arrive en version papier chez Kbooks</li>
+            <li>Solo Leveling débarque en romans chez Kbooks
+            </li>
+            <li>Kbooks nous expliquera Comment devenir la fiancée du Duc
+            </li>
+            <li>Beyond the Dawn, l'extension de Tales of Arise
+            </li>
+        </ul>
+    </div>
+
+    <div id="intro" data-aos="fade-down">
+        <div> <b>ANIMATE</b><hr>THE WORLD'S FAVOURITE MANGA STORE !</div>
+    </div>
+
+
+    <div class="title">THIS WEEK'S LATEST RELEASES</div>
+
+    <div id="latest" class="product-wrapper">
+        <div class="product">
+            <img src="assets/covers/1.jpg" alt="">
+            <p>Berserk Deluxe Volume 1 <br><b>50$</b> </p>
+        </div>
+
+        <div class="product">
+            <img src="assets/m4.jpg" alt="">
+            <p>Berserk Deluxe Volume 1 <br><b>50$</b> </p>
+        </div>
+
+        <div class="product">
+            <img src="assets/m4.jpg" alt="">
+            <p>Berserk Deluxe Volume 1 <br><b>50$</b> </p>
+        </div>
+
+        <div class="product">
+            <img src="assets/m4.jpg" alt="">
+            <p>Berserk Deluxe Volume 1 <br><b>50$</b> </p>
+        </div>
+
+        <div class="product">
+            <img src="assets/m4.jpg" alt="">
+            <p>Berserk Deluxe Volume 1 <br><b>50$</b> </p>
+        </div>
+    </div>
+
+    <div class="title">BEST SALES THIS MONTH</div>
+
+    <div  class="product-wrapper"  id="bestSales">
+        <div class="product">
+            <img src="assets/m4.jpg" alt="">
+            <p>Berserk Deluxe Volume 1 <br><b>50$</b> </p>
+        </div>
+
+        <div class="product">
+            <img src="assets/m4.jpg" alt="">
+            <p>Berserk Deluxe Volume 1 <br><b>50$</b> </p>
+        </div>
+    </div>
+
+
+
+    <div id="shipment" data-aos="fade-up">
+        <img src="assets/ship.png" alt="">
+        <p>- We currently ship to all united states cities and Euro zone countries ,<br>
+        If you don't live in the mentioned areas we can send the delivery through Fedex 
+        <br>International Priorety <br>
+        - Note : all shipments except the fedex internationl are free.
+        </p>
+    </div>
+
+    <script src="/static/script.js" ></script>
+
+</body>
+</html>

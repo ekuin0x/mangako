@@ -1,0 +1,152 @@
+[
+        {
+        "id" : 0 ,
+        "title" : "Spy x Family, Vol. 10",
+        "image" : "1.jpg",
+        "price" : "10.79",
+        "description" : "Master spy Twilight is unparalleled when it comes to going undercover on dangerous missions for the betterment of the world. But when he receives the ultimate assignment—to get married and have a kid—he may finally be in over his head!"
+    },
+    {
+        "id" : 1 ,
+        "title" : "One Piece, Vol. 104",
+        "image" : "2.jpg",
+        "price" : "7.55",
+        "description" : "As a child, Monkey D. Luffy dreamed of becoming King of the Pirates. But his life changed when he accidentally gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, Luffy sets off in search of the One Piece, said to be the greatest treasure in the world..."
+    },
+    {
+        "id" : 2 ,
+        "title" : "Chainsaw Man, Vol. 13",
+        "image" : "3.jpg",
+        "price" : "6.99",
+        "description" : "Denji was a small-time devil hunter just trying to survive in a harsh world. After being killed on a job, he is revived by his pet devil Pochita and becomes something new and dangerous—Chainsaw Man!"
+    },
+    {
+        "id" : 3 ,
+        "title" : "Jujutsu Kaisen, Vol. 21",
+        "image" : "4.jpg",
+        "price" : "7.85",
+        "description" : "In a world where cursed spirits feed on unsuspecting humans, fragments of the legendary and feared demon Ryomen Sukuna have been lost and scattered about. Should any demon consume Sukuna's body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of jujutsu sorcerers who exist to protect the precarious existence of the living from the supernatural! Hakari and Panda head for Tokyo No. 2 Colony in search of Kashimo. When they enter, they get separated, and Hakari faces Charles, a culling game player and wannabe manga creator! Meanwhile, Panda encounters Kashimo and finds himself overwhelmed by their difference in strength!"
+    },
+    {
+        "id" : 4 ,
+        "title" : "Jujutsu Kaisen, Vol. 20",
+        "image" : "5.jpg",
+        "price" : "8.99",
+        "description" : "To gain the power he needs to save his friend from a cursed spirit, Yuji Itadori swallows a piece of a demon, only to find himself caught in the midst of a horrific war of the supernatural! <br> In a world where cursed spirits feed on unsuspecting humans, fragments of the legendary and feared demon Ryomen Sukuna have been lost and scattered about. Should any demon consume Sukuna's body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of jujutsu sorcerers who exist to protect the precarious existence of the living from the supernatural!"
+    },
+    {
+        "id" : 5 ,
+        "title" : "Hunter x Hunter, Vol. 37",
+        "image" : "6.jpg",
+        "price" : "11",
+        "description" : "Plucky Gon's quest to find his dad leads him into a whole world of crazy adventure. <br> Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other people. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters."
+    },
+    {
+        "id" : 6 ,
+        "title" : "One-Punch Man, Vol. 2",
+        "image" : "7.jpg",
+        "price" : "5.87",
+        "description" : "Life gets pretty boring when you can beat the snot out of any villain with just one punch. <br> Nothing about Saitama passes the eyeball test when it comes to superheroes, from his lifeless expression to his bald head to his unimpressive physique. However, this average-looking guy has a not-so-average problem—he just can't seem to find an opponent strong enough to take on! <br> Saitama's easily taken out a number of monsters, including a crabby creature, a malicious mosquito girl and a muscly meathead. But his humdrum life takes a drastic turn when he meets Genos—a cyborg who wants to uncover the secret behind his strength!"
+    },
+    {
+        "id" : 7 ,
+        "title" : "One-Punch Man, Vol. 1",
+        "image" : "8.jpg",
+        "price" : "9.99",
+        "description" : "Life gets pretty boring when you can beat the snot out of any villain with just one punch. <br> Nothing about Saitama passes the eyeball test when it comes to superheroes, from his lifeless expression to his bald head to his unimpressive physique. However, this average-looking guy has a not-so-average problem—he just can't seem to find an opponent strong enough to take on! <br> Every time a promising villain appears, Saitama beats the snot out of 'em with one punch! Can he finally find an opponent who can go toe-to-toe with him and give his life some meaning? Or is he doomed to a life of superpowered boredom?"
+    }, 
+    {
+        "id" : 8 ,
+        "title" : "My Hero Academia, Vol. 1",
+        "image" : "10.jpg",
+        "price" : "5.01",
+        "description" : "Midoriya inherits the superpower of the world's greatest hero, but greatness won't come easy. <br> What would the world be like if 80 percent of the population manifested superpowers called “Quirks”? Heroes and villains would be battling it out everywhere! Being a hero would mean learning to use your power, but where would you go to study? The Hero Academy of course! But what would you do if you were one of the 20 percent who were born Quirkless? <br> Middle school student Izuku Midoriya wants to be a hero more than anything, but he hasn't got an ounce of power in him. With no chance of ever getting into the prestigious U.A. High School for budding heroes, his life is looking more and more like a dead end. Then an encounter with All Might, the greatest hero of them all, gives him a chance to change his destiny…"
+    },
+    {
+        "id" : 9 ,
+        "title" : "My Hero Academia, Vol. 5",
+        "image" : "11.jpg",
+        "price" : "6.99",
+        "description" : "Midoriya inherits the superpower of the world's greatest hero, but greatness won't come easy. <br> What would the world be like if 80 percent of the population manifested superpowers called “Quirks”? Heroes and villains would be battling it out everywhere! Being a hero would mean learning to use your power, but where would you go to study? The Hero Academy of course! But what would you do if you were one of the 20 percent who were born Quirkless? <br> The final stages of the U.A. High sports festival promise to be explosive, as Uraraka takes on Bakugo in a head-to-head match! Bakugo never gives anyone a break, and the crowd holds its breath as the battle begins. The finals will push the students of Class 1-A to their limits and beyond!"
+    }
+    ,
+    {
+        "id" : 10 ,
+        "title" : "Ollie Max: The Order of the Fang",
+        "image" : "12.jpg",
+        "price" : "13",
+        "description" : "The case of a kidnapped pet leads a risk-averse detective into the criminal underworld, chasing his father’s murderer and battling against an ancient cult!"
+    }
+    ,
+    {
+        "id" : 11 ,
+        "title" : "Mimi's Tales of Terror (Junji Ito)",
+        "image" : "13.jpg",
+        "price" : "11.99",
+        "description" : "University student Mimi and her boyfriend Naoto encounter one chilling mystery after another. There’s the enigmatic neighbor woman dressed in black from head to toe—but if she’s so odd, why does it seems like there are many others like her? Then, whose eyes track Mimi’s movements from the cemetery next door? And why does a bizarre red circle drawn on a basement wall change with each passing day?"
+    }
+    ,
+    {
+        "id" : 12 ,
+        "title" : "One-Punch Man, Vol. 27 (27)",
+        "image" : "14.jpg",
+        "price" : "10.69",
+        "description" : "Nothing about Saitama passes the eyeball test when it comes to superheroes, from his lifeless expression to his bald head to his unimpressive physique. However, this average-looking guy has a not-so-average problem—he just can’t seem to find an opponent strong enough to take on!"
+    }
+    ,
+    {
+        "id" : 13 ,
+        "title" : "Fullmetal Alchemist 20th Anniversary Book",
+        "image" : "15.jpg",
+        "price" : "10.99",
+        "description" : "Celebrate the legacy of Fullmetal Alchemist with this tribute to the iconic manga about two brothers’ quest to reclaim their bodies torn apart by alchemy. This collection contains all of author Hiromu Arakawa’s companion manga drawn to commemorate the series’ adaptation to other media, as well as extensive reflections from Arakawa and the talented individuals who brought Fullmetal Alchemist vividly to life in anime, film, video games, novels, and more."
+    }
+    ,
+    {
+        "id" : 14 ,
+        "title" : "Mieruko-chan, Vol. 8 (Volume 8) (Mieruko-chan, 8)",
+        "image" : "16.jpg",
+        "price" : "15.01",
+        "description" : "So one of the top ten places NOT to visit when you can see the grisly ghosts of the dearly departed? The hospital. Unfortunately for Miko, that’s exactly where she has ended up. With no chance to escape from all the things that go bump in the night, can Miko make it to the break of dawn?"
+    }
+    ,
+    {
+        "id" : 15 ,
+        "title" : "Call of the Night, Vol. 13 (13) ",
+        "image" : "17.jpg",
+        "price" : "7.68",
+        "description" : "One sleepless night, Ko slips out to walk the streets. Life after dark is a revelation! Especially when he meets flirtatious Nazuna. Except that she’s a vampire. That’s okay. He wants to become a creature of the night too. But transformation doesn’t come that easily..."
+    }
+    ,
+    {
+        "id" : 16 ,
+        "title" : "Alice in Borderland, Vol. 7 (7) ",
+        "image" : "18.jpg",
+        "price" : "12.99",
+        "description" : "Eighteen-year-old Ryohei Arisu is sick of his life. School sucks, his love life is a joke, and his future weighs on him like impending doom. As he struggles to exist in a world that can’t be bothered with him, Ryohei feels like everything would be better if he were anywhere else. When a strange fireworks show transports him and his friends to a parallel world, Ryohei thinks all his wishes have come true. But this new world isn’t an empty paradise, it’s a vicious game. And the only way to survive is to play."
+    }
+    ,
+    {
+        "id" : 17 ,
+        "title" : "Détective Conan - Tome 1",
+        "image" : "19.jpg",
+        "price" : "8.2",
+        "description" : "Le détective lycéen Shinichi Kudo est contraint de prendre un pseudonyme, Conan Edogawa (combinaison de Conan Doyle et Edogawa Rampo, créateur du roman policier japonais), pour pousuivre son enquête sur les membres d'une mystérieuse organisation."
+    }
+    ,
+    {
+        "id" : 18 ,
+        "title" : "Akane-banashi, Vol. 1",
+        "image" : "20.jpg",
+        "price" : "11.99",
+        "description" : "Shinta Arakawa wants nothing more than to pass his shin’uchi exam—the test that would make him a top-rank headliner and master storyteller in the traditional Japanese art of rakugo. Akane Osaki, his daughter and biggest fan, spies on him while he practices and learns his routines for herself. When rakugo master Issho Arakawa expels everyone after the exam with no explanation, a fire is lit inside Akane. From that day forth, she has had one goal—to avenge her father and prove his art was worthy of the title of shin’uchi."
+    }
+    ,
+    {
+        "id" : 19 ,
+        "title" : "Ôoku: The Inner Chambers, Vol. 1",
+        "image" : "21.jpg",
+        "price" : "7.69",
+        "description" : "In Edo period Japan, a strange new disease called the Redface Pox has begun to prey on the country's men. Within eighty years of the first outbreak, the male population has fallen by seventy-five percent. Women have taken on all the roles traditionally granted to men, even that of the shogun. The men, precious providers of life, are carefully protected. And the most beautiful of the men are sent to serve in the shogun's Inner Chamber..."
+    }
+    ]
