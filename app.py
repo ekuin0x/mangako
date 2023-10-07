@@ -26,7 +26,7 @@ def search(q) :
     with open('data.json', 'r', encoding='utf8') as f :
         data = json.loads(f.read())
         for x in data :
-            if q in x['title'] or q in x['description'] :
+            if q in x['title']:
                 match.append(x)
     print(match)
     return render_template('search.html', data=match)    
